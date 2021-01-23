@@ -10,7 +10,7 @@ import Alamofire
 
 class AFHTTPClient: HTTPClient {
         
-    func parse<T>(data: Data, type: T.Type, completion: @escaping (RedAmarillaResult<T>) -> Void) where T: Codable {
+    func parse<T>(data: Data, type: T.Type, completion: @escaping (MLResult<T>) -> Void) where T: Codable {
         do {
             let json = try JSONDecoder().decode(T.self, from: data)
             completion(.success(json))
@@ -22,7 +22,7 @@ class AFHTTPClient: HTTPClient {
         }
     }
     
-    func request<T: Codable>(url: String, completion: @escaping (RedAmarillaResult<T>) -> Void) {
+    func request<T: Codable>(url: String, completion: @escaping (MLResult<T>) -> Void) {
         AF.request(url).response { response in
             switch response.result {
             case .success(let data):

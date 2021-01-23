@@ -20,4 +20,5 @@ enum HTTPClientError: Swift.Error {
     case errorParser
     case badURL
     case coreDataError
+    case emptyResults
 }
