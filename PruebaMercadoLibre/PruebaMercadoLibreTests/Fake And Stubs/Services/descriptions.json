@@ -1,0 +1,35 @@
+[{
+    "id": "Success",
+    "created": "2017-12-22T20:06:07.000Z",
+    "text": "",
+    "plain_text": "Este se debe mostrar",
+    "snapshot": {
+        "url": "http://descriptions.mlstatic.com/D-MCO551389083.jpg?hash=8520c3b8559cb08aa7e782b8f5334ffe_0x0",
+        "width": 0,
+        "height": 0,
+        "status": ""
+    }
+},
+{
+	"id": "MCO551389083-2498903375",
+	"created": "2017-12-22T20:06:07.000Z",
+	"text": "",
+	"plain_text": "Financiación hasta el 100%. \r\nSuzuki New Scross, con un nuevo frente robusto, estilo SUV audaz y gran diseño interior. Los viajes en familia en la ciudad o al campo son placenteros y económicos porque el motor 1.6 lts de Suzuki Scross es altamente eficiente: ofrece una potencia de 115 caballos combinado el peso de esta camioneta da el desempeño esperado de una gran SUV, incluyen sistema de frenos ABS de cuarta generación, Distribución Electrónica de Frenado –EBD – BA (En todas las versiones), exploradoras para mejor iluminación de la vía. En versión AUTOMÁTICA, con caja secuencial de 7 velocidades, ofrece el confort y practicidad propios para la Ciudad.\r\n\r\nEl equipamiento de serie del nuevo crossover Suzuki Scross incluye elevavidrios y espejos retrovisores eléctricos, bloqueo central de puertas a distancia, aire acondicionado, volante forrado en cuero ajustable a la altura, asientos traseros abatibles 60:40.\r\nEl radio equipado cuenta con el sistema de conectividad Android Auto® y CarPlay®. Faros multirreflectores halógenos de alta intensidad.\r\n\r\nRECIBIMOS su vehículo Usado.\r\n\r\nEXCELENTES PLANES DE FINANCIACIÓN HASTA POR EL 100% SIN CUOTA INICIAL!!!",
+	"snapshot": {
+		"url": "http://descriptions.mlstatic.com/D-MCO551389083.jpg?hash=8520c3b8559cb08aa7e782b8f5334ffe_0x0",
+		"width": 0,
+		"height": 0,
+		"status": ""
+	}
+}, {
+	"id": "Fail",
+	"created": "2017-12-22T20:06:07.000Z",
+	"text": "",
+	"plain_text": "Este no se debe mostrar",
+	"snapshot": {
+		"url": "http://descriptions.mlstatic.com/D-MCO551389083.jpg?hash=8520c3b8559cb08aa7e782b8f5334ffe_0x0",
+		"width": 0,
+		"height": 0,
+		"status": ""
+	}
+}]
