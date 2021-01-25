@@ -47,7 +47,6 @@
 		04D3332C25BCBF2800E8387E /* MLAPITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04D3332125BCBF2800E8387E /* MLAPITests.swift */; };
 		04D3332D25BCBF2800E8387E /* TestsDetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04D3332225BCBF2800E8387E /* TestsDetailViewController.swift */; };
 		04D3334325BCC2CC00E8387E /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04D3334225BCC2CC00E8387E /* SceneDelegate.swift */; };
-		04F9A00325BCC48800E035C7 /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 04F99FF625BCC46300E035C7 /* Info.plist */; };
 		30714C5026375B7A6167323C /* Pods_PruebaMercadoLibre_PruebaMercadoLibreUITests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BE437F201996BA845637BA2B /* Pods_PruebaMercadoLibre_PruebaMercadoLibreUITests.framework */; };
 		B57219B005A4BFF5F06A3C07 /* Pods_PruebaMercadoLibreTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8101531C2FAEDD5EFED28746 /* Pods_PruebaMercadoLibreTests.framework */; };
 		F5C3DAE05625F37DFC4B6957 /* Pods_PruebaMercadoLibre.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F92DDAFC50750ACA70B61DB1 /* Pods_PruebaMercadoLibre.framework */; };
@@ -509,7 +508,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				04F9A00325BCC48800E035C7 /* Info.plist in Resources */,
 				04D3330825BCBF0500E8387E /* HeaderImagesTableViewCell.xib in Resources */,
 				04618EEB25BB75D400F8AA89 /* LaunchScreen.storyboard in Resources */,
 				04D3330025BCBF0500E8387E /* SearchTableViewCell.xib in Resources */,
